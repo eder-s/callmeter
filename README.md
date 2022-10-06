@@ -3,7 +3,7 @@
 Call Meter 3G is the most complete monitor app for your Android device:
 It monitors your calls, text messages and data usage.
 
-[![Call Meter 3G on Google Play][1]][2]
+
 
 ## Call Meter 3G vs. Call Meter NG
 
